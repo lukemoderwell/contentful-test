@@ -1,0 +1,17 @@
+---
+sys:
+  id: 2jMKj2rWgMYkEyeSeUCUcu
+  created_at: !ruby/object:DateTime 2018-02-13 14:45:03.155000000 Z
+  updated_at: !ruby/object:DateTime 2018-02-13 21:06:16.109000000 Z
+  content_type_id: author
+name: Brian Tome
+bio: Adventure Rider, Senior Pastor of Crossroads Church, Husband, Father, Author,
+  Equal Opportunity Offender/Encourager.
+avatar:
+  sys:
+    id: 3Xn6TcfUU8YS2EuwIyCUqs
+    created_at: !ruby/object:DateTime 2018-02-13 14:46:57.628000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-13 14:47:27.703000000 Z
+  title: Brian Tome
+  description: 
+  url: "//images.contentful.com/wae6eqqc3fyb/3Xn6TcfUU8YS2EuwIyCUqs/616735fe9f326d79cad500629116928a/1_cSAYRIzpcfpWgat5fKXhgw.jpeg"

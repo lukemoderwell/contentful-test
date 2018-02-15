@@ -1,0 +1,45 @@
+---
+sys:
+  id: 65IX1ppiiQ4sSy2skWkc62
+  created_at: !ruby/object:DateTime 2018-02-13 14:47:43.961000000 Z
+  updated_at: !ruby/object:DateTime 2018-02-15 20:58:01.091000000 Z
+  content_type_id: article
+title: Chains and Christmas
+body: |-
+  Christmas is about celebrating the birth of Jesus. Though we don’t know exactly when He was born, we are pretty certain it wasn’t December 25th. Some believe the early church chose this day to give believers an alternative to a pagan holiday. Others believe that it was linked to the Jewish calendar of passover. (Go here for a deeper dive.)
+
+  While I can’t say with certainty the actual date when Jesus was born, I can say with certainty what Jesus definitively does: Bring Freedom. As the Crossroads Awaited show portrays, all of us have our chains. Chains of addiction, rebellion, fear, frustration, materialism, and the list goes on and on. Those of us who are most open to the message of Christmas are those who are most aware of our natural condition of spiritual enslavement to things other than God, and know that we need a savior.
+
+  A prophecy in Isaiah 61:1 written long before the Messiah Jesus was born, and then quoted by Jesus in his first public teaching in Luke 4:18 says, “The Spirit of the Lord GOD is upon me, because the LORD has anointed me to bring good news to the poor; he has sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound.”
+
+  This truth was driven home to me when I read an email describing the impact the Awaited show is having on those in literal, physical prison. Excerpted below is an email from one of our leaders who does church with those who are incarcerated…
+
+  We spent this week screening Awaited at our four main institutions in Ohio and a new one in Kentucky. Last Saturday, the wardens from these prisons joined us for a showing. __They were so moved by their experience, that three of the prisons had us simultaneously broadcast our Awaited screening to the entire institution population via close circuited TVs in each prison cell.__
+
+  ![1*3i05X703sG-RCZnFcCcVEw](//images.contentful.com/wae6eqqc3fyb/33OiDMOAVGEwaWUeKoGyE4/4975323c74fa410f1a1b68e068cdb8a3/1_3i05X703sG-RCZnFcCcVEw.jpeg)
+
+  No lie, in total, we had 5,954 inmates watch Awaited this week alone. The stories that came from this week are insane:
+
+  - In one institution, we had a first time volunteer from Crossroads join us. Nick is in his 20s and served 3 years in prison, where he was lead to Christ through a man named Henry, one of our Crossroads Anywhere leaders. Thursday evening was Nick’s first time back since his release, and he and Henry had the opportunity to watch Awaited together, side by side.
+
+  - In another, we had a first time volunteer (Jessica) who recently was released from her incarceration. This was her first time being back since her release. It was so powerful to see the emotional reunion she had as she prayed over the women who attended. God used her story to bring tangible hope to the women there.
+
+  - One of the female residents stated that her parents and two children who live in KY were driving up to Cincinnati to see “some Christmas play that had been going on for 10 years.” She came to us after the show and had their email correspondence in hand, where they stated that they were going to be attending the 1pm showing on Saturday 12/16. So it ended up that she and her family both were watching Awaited at the same exact time. She was in tears as she was sharing this with us.
+author:
+  sys:
+    id: 2jMKj2rWgMYkEyeSeUCUcu
+    created_at: !ruby/object:DateTime 2018-02-13 14:45:03.155000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-13 21:06:16.109000000 Z
+    content_type_id: author
+  name: Brian Tome
+  bio: Adventure Rider, Senior Pastor of Crossroads Church, Husband, Father, Author,
+    Equal Opportunity Offender/Encourager.
+  avatar:
+    sys:
+      id: 3Xn6TcfUU8YS2EuwIyCUqs
+      created_at: !ruby/object:DateTime 2018-02-13 14:46:57.628000000 Z
+      updated_at: !ruby/object:DateTime 2018-02-13 14:47:27.703000000 Z
+    title: Brian Tome
+    description: 
+    url: "//images.contentful.com/wae6eqqc3fyb/3Xn6TcfUU8YS2EuwIyCUqs/616735fe9f326d79cad500629116928a/1_cSAYRIzpcfpWgat5fKXhgw.jpeg"
+slug: /chains-christmas/

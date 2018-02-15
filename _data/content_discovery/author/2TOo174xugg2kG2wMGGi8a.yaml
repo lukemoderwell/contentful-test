@@ -1,0 +1,16 @@
+---
+sys:
+  id: 2TOo174xugg2kG2wMGGi8a
+  created_at: !ruby/object:DateTime 2018-02-15 19:58:55.965000000 Z
+  updated_at: !ruby/object:DateTime 2018-02-15 19:59:14.614000000 Z
+  content_type_id: author
+name: Aaron Gause
+bio: A great guy
+avatar:
+  sys:
+    id: 33OiDMOAVGEwaWUeKoGyE4
+    created_at: !ruby/object:DateTime 2018-02-13 14:48:41.406000000 Z
+    updated_at: !ruby/object:DateTime 2018-02-13 14:48:43.696000000 Z
+  title: 1*3i05X703sG-RCZnFcCcVEw
+  description: 
+  url: "//images.contentful.com/wae6eqqc3fyb/33OiDMOAVGEwaWUeKoGyE4/4975323c74fa410f1a1b68e068cdb8a3/1_3i05X703sG-RCZnFcCcVEw.jpeg"
